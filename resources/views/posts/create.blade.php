@@ -37,8 +37,8 @@
                 </td>
             </tr>
         </table>
+        <input type="submit" value="投稿">
     </form>
-    <input type="submit" value="投稿">
 </body>
 
 </html>
